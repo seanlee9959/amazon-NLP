@@ -38,7 +38,7 @@ Seller/manufacturer (Sold & Shipped by Amazon, Sold by Third-Party but Fulfilled
 
 Ranking on search page (page number, best seller rank)
 
-Data Cleaning:
+**Data Cleaning:**
 
 The extracted data will be cleaned and processed to create a clean and usable dataset. The cleaning process involves removing irrelevant data, filling in missing values, and standardizing the data format.
 
