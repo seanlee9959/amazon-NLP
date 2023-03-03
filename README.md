@@ -24,17 +24,17 @@ The solution to the potential issue is to scrape data for one product genre. Thi
 
 The following data will be extracted from Amazon's product pages using web scraping techniques:
 
-- ASIN ID (Amazon's unique product ID)
+- ASIN ID (amazon's unique product ID)
 
 - Name
 
 - Price (sale vs original)
 
-- Rating/Stars
+- Rating/stars
 
-- Description/Reviews
+- Description/reviews
 
-- Seller/manufacturer (Sold & Shipped by Amazon, Sold by Third-Party but Fulfilled by Amazon, Sold & Shipped by Third-Party)
+- Seller/manufacturer (sold & shipped by Amazon, sold by third-party but fulfilled by Amazon, sold & shipped by third-party)
 
 - Ranking on search page (page number, best seller rank)
 
