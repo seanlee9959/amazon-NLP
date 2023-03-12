@@ -14,7 +14,7 @@ The primary research question for this project is "What factors affect the prici
 
 ## **Potential Issue**
 
-Scraping for all products on Amazon may not produce congruent results due to the vast number of products available. Therefore, we will focus on scraping data for one product genre to ensure consistent results.
+Scraping for all products on Amazon may not produce congruent results due to the vast number of products available. Therefore, we will focus on scraping data for one product genre to ensure consistent results. 
 
 ## **Solution**
 
@@ -24,17 +24,17 @@ The solution to the potential issue is to scrape data for one product genre. Thi
 
 The following data will be extracted from Amazon's product pages using web scraping techniques:
 
-- ASIN ID (Amazon's unique product ID)
+- ASIN ID (amazon's unique product ID)
 
 - Name
 
 - Price (sale vs original)
 
-- Rating
+- Rating/stars
 
-- Description
+- Description/reviews
 
-- Seller/manufacturer (Sold & Shipped by Amazon, Sold by Third-Party but Fulfilled by Amazon, Sold & Shipped by Third-Party)
+- Seller/manufacturer (sold & shipped by Amazon, sold by third-party but fulfilled by Amazon, sold & shipped by third-party)
 
 - Ranking on search page (page number, best seller rank)
 
